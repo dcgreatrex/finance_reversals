@@ -1,5 +1,5 @@
 #finance_reversals
-# Functions for computing time series reversal points.
+# Algorithm for computing time series reversal points.
 *Author: David Greatrex, University of Cambridge.  
 *Date: 30/11/2016 -- Language: Matlab. -- Modifications:
 
