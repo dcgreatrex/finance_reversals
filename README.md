@@ -4,7 +4,7 @@
 *Date: 30/11/2016 -- Language: Matlab. -- Modifications:
 
 ##Overview:
-This algorithm can be used as part of a larger program to automatically detect price channel boundaries and trade entry/exit points. The function extracts price reversal points by using a user defined lookback window. The results are then overlayed on a time series plot using the quantmod package. The function will run on any time series dataset with index length > 2 lookback window.
+This algorithm can be used as part of a larger program to automatically detect price channel boundaries and trade entry/exit points. The function extracts price reversal points using a user defined lookback window. The results are then overlayed on a time series plot using the quantmod package. The function will run on any time series dataset with index length > 2 lookback window.
 
 ##References:
 
