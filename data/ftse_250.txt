@@ -1,0 +1,244 @@
+Symbol	Name	Last Trade	Change	Volume
+3IN.L	3iInfrastructure plc	197.00 16:49	Up 0.50(0.25%)	580,261
+AA.L	AA plc	260.30 16:59	Up 0.30(0.12%)	1,479,957
+ACA.L	Acacia Mining plc	542.50 16:59	Up 24.50(4.73%)	2,074,059
+ADN.L	Aberdeen Asset Management PLC	310.20 16:54	Down 1.10 (0.35%)	5,091,402
+AGK.L	Aggreko plc	813.00 16:55	Up 12.50(1.56%)	1,505,943
+AGR.L	Assura Plc	58.30 16:35	Up 0.15(0.26%)	6,149,495
+ALD.L	Aldermore Group PLC	189.50 16:39	Up 2.50(1.34%)	1,542,666
+ALM.L	Allied Minds plc	346.30 16:35	Up 6.20(1.82%)	111,198
+AMFW.L	Amec Foster Wheeler plc	428.40 16:49	Up 13.80(3.33%)	2,961,637
+AO.L	AO World Plc	164.00 16:39	Up 5.00(3.14%)	215,731
+ASCL.L	Ascential Group Limited	295.00 16:35	Up 3.30(1.13%)	114,113
+ASHM.L	Ashmore Group PLC	332.70 16:35	Down 4.40 (1.31%)	1,687,997
+ASL.L	Aberforth Smaller Companies Trust Plc	1,019.00 16:35	Up 7.00(0.69%)	56,537
+ATK.L	WS Atkins plc	1,613.00 16:48	Up 53.00(3.40%)	347,075
+ATST.L	Alliance Trust PLC	578.50 16:49	Up 1.00(0.17%)	550,650
+AUTO.L	Auto Trader Group plc	386.00 16:49	Up 15.60(4.21%)	4,195,207
+AVV.L	AVEVA Group plc	1,698.00 16:49	Down 77.00 (4.34%)	261,753
+BAG.L	A.G.Barr p.l.c.	505.00 16:36	Up 6.40(1.28%)	806,359
+BBA.L	BBA Aviation plc	249.00 16:48	Up 1.70(0.69%)	2,693,253
+BBOX.L	Tritax Big Box REIT plc	134.70 16:37	Down 0.80 (0.59%)	3,031,945
+BBY.L	Balfour Beatty plc	281.30 16:51	Up 19.20(7.33%)	4,098,190
+BGEO.L	BGEO Group plc	2,891.00 16:35	Down 24.00 (0.82%)	60,481
+BHMG.L	BH Macro Limited	1,889.00 16:35	Up 14.00(0.75%)	29,197
+BME.L	B&M European Value Retail S.A.	233.90 16:49	Up 1.40(0.60%)	2,034,782
+BNKR.L	The Bankers Investment Trust PLC	678.50 16:35	Down 4.00 (0.59%)	197,438
+BOK.L	Booker Group PLC	176.90 16:49	Down 1.70 (0.95%)	3,430,726
+BOY.L	Bodycote plc	586.00 16:49	Up 12.00(2.09%)	372,512
+BRSN.L	Berendsen plc	943.50 16:48	Down 11.50 (1.20%)	438,483
+BRW.L	Brewin Dolphin Holdings plc	258.60 16:42	Down 1.20 (0.46%)	582,238
+BTEM.L	British Empire Trust Plc	620.00 16:55	Down 9.00 (1.43%)	141,962
+BTG.L	BTG plc	654.00 16:48	Up 20.00(3.15%)	766,601
+BVIC.L	Britvic Plc	562.00 16:49	Down 2.00 (0.35%)	926,856
+BVS.L	Bovis Homes Group PLC	802.50 16:49	Up 24.50(3.15%)	799,009
+BWNG.L	N Brown Group plc	190.30 16:35	Up 1.70(0.90%)	463,462
+BWY.L	Bellway plc	2,426.00 16:52	Up 75.00(3.19%)	493,328
+BYG.L	Big Yellow Group plc	691.50 16:36	Up 0.50(0.07%)	277,787
+CAPC.L	Capital & Counties Properties PLC	282.20 16:49	Down 0.20 (0.07%)	1,663,916
+CARD.L	Card Factory PLC	252.90 16:49	Up 0.20(0.08%)	3,988,389
+CBG.L	Close Brothers Group plc	1,315.00 16:39	Up 14.00(1.08%)	276,860
+CCC.L	Computacenter plc	725.00 16:35	Up 4.00(0.55%)	68,405
+CEY.L	Centamin Plc	164.30 16:49	Up 9.80(6.34%)	19,285,284
+CINE.L	Cineworld Group plc	540.00 16:49	Up 3.00(0.56%)	383,816
+CIR.L	Circassia Limited	82.25 16:35	Up 2.25(2.81%)	164,558
+CKN.L	Clarkson PLC	2,169.00 16:40	Up 19.00(0.88%)	27,679
+CLDN.L	Caledonia Investments plc	2,415.00 16:35	Down 3.00 (0.12%)	19,082
+CLI.L	CLS Holdings plc	1,618.00 16:37	Up 28.00(1.76%)	5,649
+CLLN.L	Carillion plc	247.70 16:35	Up 3.00(1.23%)	2,045,500
+CMCX.L	CMC Markets Plc	202.70 16:51	Up 2.70(1.35%)	60,740
+CNE.L	Cairn Energy plc	190.40 16:37	Down 2.30 (1.19%)	946,471
+COB.L	Cobham plc	157.60 16:56	Up 9.60(6.49%)	9,651,179
+CRST.L	Crest Nicholson Holdings plc	431.00 16:39	Up 15.90(3.83%)	879,214
+CSP.L	Countryside Properties PLC	230.70 16:56	Down 4.70 (2.00%)	341,722
+CTY.L	The City of London Investment Trust plc	394.00 16:35	Up 2.00(0.51%)	707,987
+CWD.L	Countrywide plc	192.10 16:35	Up 3.00(1.59%)	421,520
+CWK.L	Cranswick plc	2,187.00 16:39	Down 1.00 (0.05%)	57,669
+CYBG.L	CYBG PLC	287.10 16:49	Up 2.80(0.98%)	1,638,295
+DCG.L	Dairy Crest Group plc	589.00 16:49	Down 4.50 (0.76%)	211,031
+DEB.L	Debenhams plc	55.65 16:48	Down 0.30 (0.54%)	3,808,860
+DFS.L	DFS Furniture plc	225.80 16:35	Down 8.30 (3.55%)	369,164
+DJAN.L	Daejan Holdings plc	5,610.00 16:35	Up 110.00(2.00%)	6,146
+DLN.L	Derwent London plc	2,442.00 11:53AM GMT	Up 16.00(0.66%)	324,375
+DNLM.L	Dunelm Group plc	752.00 16:49	Down 1.00 (0.13%)	228,987
+DPH.L	Dechra Pharmaceuticals plc	1,300.00 16:48	Up 9.00(0.70%)	166,896
+DPLM.L	Diploma PLC	923.50 16:35	Up 7.50(0.82%)	92,108
+DRTY.L	Darty plc	171.25 15 Aug 16:35	Up 0.75(0.44%)	23,875
+DRX.L	Drax Group plc.	312.40 16:49	Up 2.70(0.87%)	1,100,631
+DTY.L	Dignity plc	2,662.00 16:48	Up 10.00(0.38%)	63,465
+ECM.L	Electrocomponents plc	365.00 16:39	0.00(0.00%)	788,066
+EDIN.L	The Edinburgh Investment Trust plc	687.00 16:43	Up 13.00(1.93%)	422,938
+ELM.L	Elementis plc	250.30 16:49	Up 14.50(6.15%)	1,436,951
+ELTA.L	Electra Private Equity Plc	4,470.00 16:35	Up 3.00(0.07%)	29,908
+EMG.L	Man Group plc	124.20 16:48	Up 2.20(1.80%)	5,372,077
+ERM.L	Euromoney Institutional Investor PLC	1,030.00 16:35	Down 35.00 (3.29%)	10,078
+ESNT.L	Essentra plc	480.50 16:48	Up 11.50(2.45%)	639,519
+ESUR.L	esure Group plc	196.20 16:35	Up 6.20(3.26%)	1,005,920
+ETO.L	Entertainment One Ltd.	235.50 16:48	Down 1.30 (0.55%)	710,048
+EVR.L	EVRAZ plc	223.70 16:48	Up 15.30(7.34%)	4,362,663
+FCPT.L	F&C Commercial Property Trust Limited	131.80 16:35	Up 1.20(0.92%)	1,794,095
+FCSS.L	Fidelity China Special Situations PLC	182.20 16:41	Down 2.90 (1.57%)	1,066,858
+FDSA.L	Fidessa group plc	2,391.00 16:49	Up 1.00(0.04%)	26,141
+FEV.L	Fidelity Investment Trust - Fidelity European Values plc	179.70 16:35	Down 0.30 (0.17%)	222,450
+FGP.L	Firstgroup plc	107.00 16:49	Down 1.40 (1.29%)	2,277,076
+FGT.L	Finsbury Growth & Income Trust PLC	637.50 16:48	Down 2.00 (0.31%)	676,830
+FRCL.L	Foreign & Colonial Investment Trust PLC	519.00 16:35	0.00(0.00%)	444,180
+GCP.L	GCP Infrastructure Investments Ltd.	130.30 16:35	Up 1.90(1.48%)	349,323
+GFRD.L	Galliford Try plc	1,270.00 16:48	Up 44.00(3.59%)	500,856
+GFS.L	G4S plc	246.70 16:51	Up 0.10(0.04%)	3,896,308
+GFTU.L	Grafton Group plc	536.50 16:52	Up 18.00(3.47%)	1,134,986
+GNC.L	Greencore Group plc	305.10 16:35	Down 5.80 (1.87%)	1,032,771
+GNK.L	Greene King plc	732.00 16:48	Up 1.00(0.14%)	750,843
+GNS.L	Genus plc	1,950.00 16:49	Up 56.00(2.96%)	71,302
+GOG.L	The Go-Ahead Group plc	2,139.00 16:49	Up 8.00(0.38%)	116,353
+GPOR.L	Great Portland Estates plc	609.00 16:52	Up 0.50(0.08%)	829,576
+GRG.L	Greggs plc	914.50 16:48	Down 5.50 (0.60%)	302,059
+GRI.L	Grainger Plc	221.00 16:49	Down 1.10 (0.50%)	688,966
+GSS.L	Genesis Emerging Markets Fund	598.50 16:35	Down 12.00 (1.97%)	151,804
+HAS.L	Hays plc	138.30 16:48	Up 1.50(1.10%)	4,387,615
+HFD.L	Halfords Group plc	343.70 16:48	Up 6.70(1.99%)	840,763
+HGG.L	Henderson Group plc	224.60 16:35	Up 1.90(0.85%)	2,675,329
+HICL.L	HICL Infrastructure Company Limited	171.00 16:35	Up 0.40(0.23%)	1,488,293
+HILS.L	Hill & Smith Holdings PLC	1,158.00 16:35	Up 93.00(8.73%)	355,340
+HLMA.L	Halma plc	1,044.00 16:49	Up 21.00(2.05%)	671,372
+HOME.L	Home Retail Group plc	160.04 31 Aug 16:54	Up 0.34(0.21%)	16,896,970
+HSTG.L	Hastings Group Holdings plc	217.70 16:35	Up 2.40(1.11%)	365,590
+HSTN.L	Hansteen Holdings PLC	106.10 16:37	Down 0.90 (0.84%)	2,782,044
+HSV.L	HomeServe plc	614.00 16:35	Up 6.00(0.99%)	182,201
+HSX.L	Hiscox, Ltd.	1,054.00 16:52	Up 3.00(0.29%)	472,048
+HVPE.L	HarbourVest Global Private Equity Ltd.	1,074.00 16:35	Down 1.00 (0.09%)	26,090
+HWDN.L	Howden Joinery Group Plc	359.40 16:48	Up 2.30(0.64%)	3,227,085
+IAP.L	ICAP plc	498.10 16:48	Up 10.30(2.11%)	1,290,580
+IBST.L	Ibstock plc	180.10 16:39	Up 5.10(2.91%)	832,179
+ICP.L	Intermediate Capital Group plc	622.50 16:48	Up 7.00(1.14%)	466,476
+IGG.L	IG Group Holdings plc	831.00 16:52	Up 17.00(2.09%)	1,023,031
+IMI.L	IMI plc	969.00 16:58	Up 21.00(2.22%)	902,445
+INCH.L	Inchcape plc	642.50 16:49	0.00(0.00%)	598,291
+INDV.L	Indivior PLC	357.40 16:48	Up 7.00(2.00%)	2,341,986
+INPP.L	International Public Partnerships Limited	157.70 16:35	Up 0.20(0.13%)	1,091,968
+INVP.L	Investec plc	510.00 16:48	Up 2.00(0.39%)	1,353,262
+IPF.L	International Personal Finance Plc	278.80 16:35	Down 14.60 (4.98%)	1,003,183
+IPO.L	IP Group Plc	142.90 16:56	Up 2.90(2.07%)	188,263
+ISAT.L	Inmarsat Plc	761.00 16:54	Down 30.00 (3.79%)	2,930,513
+JAM.L	JPMorgan American Investment Trust plc	345.00 16:35	Up 1.80(0.52%)	567,973
+JD.L	JD Sports Fashion plc	1,593.00 16:48	Up 22.00(1.40%)	263,992
+JDW.L	J D Wetherspoon plc	867.50 16:59	Up 3.50(0.41%)	191,786
+JE.L	JUST EAT plc	572.50 16:55	Up 19.50(3.53%)	2,421,868
+JLIF.L	John Laing Infrastructure Fund Ltd.	128.00 16:35	Up 0.10(0.08%)	838,737
+JLT.L	Jardine Lloyd Thompson Group plc	960.50 16:48	Down 20.00 (2.04%)	229,921
+JMG.L	JPMorgan Emerging Markets Investment Trust plc	721.50 16:35	Down 16.50 (2.24%)	160,862
+JRG.L	JRP Group plc	148.50 23 Jun 17:36	Up 1.50(1.02%)	1,325,033
+JUP.L	Jupiter Fund Management Plc	431.60 16:49	Up 2.10(0.49%)	1,061,532
+KAZ.L	KAZ Minerals plc	318.60 17:00	Up 21.10(7.09%)	3,960,337
+KIE.L	Kier Group plc	1,370.00 16:48	Up 41.00(3.09%)	335,981
+KLR.L	Keller Group plc	731.50 16:49	Up 30.00(4.28%)	196,802
+KWE.L	Kennedy Wilson Europe Real Estate Plc	1,025.00 16:55	Down 14.00 (1.35%)	170,388
+LAD.L	Ladbrokes PLC	133.29 31 Oct 17:10	Down 0.31 (0.23%)	7,497,446
+LMP.L	LondonMetric Property Plc	147.10 16:35	Down 0.60 (0.41%)	1,157,853
+LRD.L	Laird PLC	130.30 16:49	Down 5.10 (3.77%)	4,134,800
+LRE.L	Lancashire Holdings Limited	746.50 16:49	Up 12.50(1.70%)	480,924
+MAB.L	Mitchells & Butlers plc	282.50 16:49	Up 4.30(1.55%)	315,048
+MARS.L	Marstons plc	133.50 16:35	Down 0.20 (0.15%)	2,191,378
+MCRO.L	Micro Focus International plc	2,048.00 16:55	Down 17.00 (0.82%)	850,095
+MCS.L	McCarthy & Stone Plc	173.00 16:55	Up 4.00(2.37%)	635,069
+MGAM.L	Morgan Advanced Materials plc	272.90 16:35	Up 5.50(2.06%)	421,045
+MGGT.L	Meggitt PLC	448.80 16:51	Up 17.00 (3.94%)	2,369,100
+MLC.L	Millennium & Copthorne Hotels plc	448.90 16:35	Up 13.90 (3.20%)	68,360
+MNKS.L	The Monks Investment Trust PLC	528.00 16:47	Up 6.00 (1.15%)	366,744
+MONY.L	Moneysupermarket.com Group PLC	286.20 16:48	Up 1.20 (0.42%)	1,851,786
+MPI.L	PageGroup plc	396.90 23 Jun 17:01	Up 11.40 (2.96%)	749,472
+MRC.L	The Mercantile Investment Trust plc	1,650.00 16:35	Up 11.00 (0.67%)	61,325
+MSLH.L	Marshalls plc	269.70 16:48	Up 3.60 (1.35%)	359,298
+MTO.L	MITIE Group PLC	218.30 16:35	Up 4.50 (2.10%)	1,259,951
+MTRO.L	Metro Bank PLC	2,780.00 16:57	Up 34.00 (1.24%)	58,298
+MYI.L	Murray International Trust PLC	1,128.00 16:44	0.00 (0.00%)	205,821
+NBLS.L	NB GLOBAL FLOATING RATE INCOME	94.15 16:35	0.00 (0.00%)	459,942
+NCC.L	NCC Group plc	198.90 16:49	Down 1.50 (0.75%)	981,895
+NEX.L	National Express Group PLC	355.00 16:35	Down 1.30 (0.36%)	559,729
+NMC.L	NMC Health Plc	1,406.00 16:48	Up 17.00 (1.22%)	311,940
+OCDO.L	Ocado Group plc	270.20 16:48	Down 2.10 (0.77%)	1,531,858
+OSB.L	OneSavings Bank Plc	290.30 16:49	Up 3.30 (1.15%)	344,512
+P2P.L	P2P Global Investments PLC	792.00 16:37	Up 0.50 (0.06%)	50,050
+PAG.L	Paragon Group of Companies plc	331.50 16:49	Up 2.30 (0.70%)	1,252,566
+PAY.L	PayPoint plc	1,084.00 16:35	Down 6.00 (0.55%)	22,345
+PAYS.L	Paysafe Group Plc	420.80 16:59	Up 2.60 (0.62%)	4,106,358
+PCT.L	Polar Capital Technology Trust plc	798.00 16:35	Up 9.50 (1.20%)	288,300
+PDG.L	Pendragon PLC	30.00 16:36	Down 0.75 (2.44%)	1,959,653
+PETS.L	Pets at Home Group Plc	215.50 16:39	Up 1.00 (0.47%)	441,325
+PFC.L	Petrofac Limited	775.50 16:51	Up 8.50 (1.11%)	2,764,765
+PHNX.L	Phoenix Group Holdings	727.00 16:49	Up 5.00 (0.69%)	1,506,875
+PLI.L	Perpetual Income and Growth Investment Trust plc	366.90 16:35	Up 4.40 (1.21%)	284,341
+PLP.L	Polypipe Group plc	257.00 17:00	0.00 (0.00%)	482,912
+PNL.L	Personal Assets Trust plc	39,600.00 16:40	Down 100.00 (0.25%)	1,696
+PNN.L	Pennon Group Plc	816.50 16:55	Up 7.50 (0.93%)	1,919,819
+POLY.L	Polymetal International Plc	949.00 16:49	Up 41.50 (4.57%)	2,816,388
+PTEC.L	Playtech plc	878.50 16:48	Down 14.00 (1.57%)	1,437,379
+PZC.L	PZ Cussons Plc	327.40 16:35	Down 4.50 (1.36%)	260,912
+QQ.L	QinetiQ Group Plc	243.50 16:58	Up 7.30 (3.09%)	1,475,107
+RAT.L	Rathbone Brothers plc	1,816.00 16:49	Up 15.00 (0.83%)	26,895
+RCP.L	RIT Capital Partners plc	1,770.00 16:47	Down 1.00 (0.06%)	155,915
+RDI.L	Redefine International P.L.C.	40.02 16:35	Up 0.02 (0.05%)	1,718,813
+RDW.L	Redrow plc	409.20 16:52	Up 22.10 (5.71%)	1,421,238
+RGU.L	Regus plc	233.20 16:52	Down 0.70 (0.30%)	3,062,131
+RMV.L	Rightmove plc	3,797.00 16:48	Up 48.00 (1.28%)	191,985
+RNK.L	The Rank Group Plc	194.90 16:37	Down 0.10 (0.05%)	212,063
+ROR.L	Rotork plc	204.80 16:49	Up 7.90 (4.01%)	3,880,485
+RPC.L	RPC Group Plc	963.00 16:48	Up 25.00 (2.67%)	1,047,921
+RSE.L	Riverstone Energy Limited	1,245.00 16:35	Up 10.00 (0.81%)	37,975
+RSW.L	Renishaw plc	2,577.00 16:48	Up 35.00 (1.38%)	88,609
+RTN.L	Restaurant Group plc	368.30 16:48	Up 6.40 (1.77%)	787,793
+RTO.L	Rentokil Initial plc	222.40 16:48	Down 0.60 (0.27%)	3,054,133
+SAFE.L	Safestore Holdings plc	354.50 16:35	Up 1.50 (0.42%)	216,961
+SAGA.L	Saga plc	199.90 16:48	Up 2.80 (1.42%)	3,503,697
+SCIN.L	The Scottish Investment Trust PLC	740.00 16:41	Down 4.00 (0.54%)	54,807
+SCT.L	Softcat Plc	318.00 16:35	0.00 (0.00%)	308,694
+SGC.L	Stagecoach Group plc	199.20 16:39	Down 1.30 (0.65%)	809,520
+SGP.L	SuperGroup Plc	1,447.00 16:49	Up 20.00(1.40%)	234,129
+SGRO.L	SEGRO plc	416.80 16:53	Down 8.00 (1.88%)	2,433,931
+SHB.L	Shaftesbury PLC	913.50 16:49	Down 3.00 (0.33%)	518,478
+SHI.L	SIG plc	112.80 16:49	Up 2.70(2.45%)	1,723,305
+SKG.L	Smurfit Kappa Group plc	1,738.00 16:51	Down 74.00 (4.08%)	1,075,305
+SMDS.L	DS Smith Plc	385.70 16:54	Down 5.10 (1.31%)	3,185,866
+SMIN.L	Smiths Group plc	1,453.00 16:59	Up 49.00(3.49%)	2,355,993
+SMP.L	St. Modwen Properties PLC	276.50 16:39	Up 5.90(2.18%)	308,070
+SMT.L	Scottish Mortgage Investment Trust PLC	322.90 16:35	Down 1.30 (0.40%)	3,158,303
+SMWH.L	WH Smith PLC	1,486.00 16:48	Up 5.00(0.34%)	631,104
+SNR.L	Senior plc	173.90 16:39	Up 0.80(0.46%)	1,655,844
+SOPH.L	Sophos Group plc	234.70 16:39	Up 1.70(0.73%)	1,378,480
+SPD.L	Sports Direct International plc	314.10 16:49	Up 0.30(0.10%)	2,209,139
+SPI.L	Spire Healthcare Group Plc	370.60 16:51	Up 3.30(0.90%)	298,003
+SPX.L	Spirax-Sarco Engineering plc	4,384.00 16:39	Up 56.00(1.29%)	134,635
+SRP.L	Serco Group plc	136.00 16:51	Down 2.30 (1.66%)	3,356,640
+SVI.L	SVG Capital Plc	702.00 16:39	Up 0.50(0.07%)	342,014
+SVS.L	Savills plc	680.00 16:49	Up 5.50(0.82%)	260,873
+SXS.L	Spectris plc	2,080.00 16:48	Up 55.00(2.72%)	192,509
+SYNT.L	Synthomer plc	352.80 16:49	Up 4.60(1.32%)	2,701,562
+TALK.L	TalkTalk Telecom Group PLC	201.50 16:48	Up 0.20(0.10%)	1,104,787
+TATE.L	Tate & Lyle plc	659.00 16:57	Down 89.00 (11.90%)	9,454,348
+TCG.L	Thomas Cook Group plc	71.75 16:49	Up 0.20(0.28%)	4,586,934
+TED.L	Ted Baker PLC	2,569.00 16:39	Up 74.00(2.97%)	52,294
+TEM.L	Templeton Emerging Markets Investment Trust plc	590.00 16:35	Down 17.00 (2.80%)	597,828
+TEP.L	Telecom Plus plc	1,168.00 16:39	Up 12.00(1.04%)	45,414
+TLPR.L	Tullett Prebon plc	406.00 16:49	Down 0.20 (0.05%)	1,601,054
+TLW.L	Tullow Oil plc	256.20 16:57	Down 1.10 (0.43%)	7,158,590
+TMPL.L	Temple Bar Investment Trust PLC	1,141.00 16:35	Up 7.00(0.62%)	97,429
+TRIG.L	The Renewables Infrastructure Group Limited	107.00 16:54	Up 0.20(0.19%)	564,722
+TRY.L	TR Property Investment Trust plc	294.00 16:35	Up 3.10(1.07%)	397,252
+UDG.L	UDG Healthcare plc	680.00 16:49	Up 7.00(1.04%)	346,910
+UKCM.L	UK Commercial Property Trust Ltd.	79.00 16:59	Down 0.40 (0.50%)	1,255,902
+ULE.L	Ultra Electronics Holdings plc	1,913.00 16:59	Up 98.00(5.40%)	608,348
+UTG.L	Unite Group plc	568.50 16:35	Down 3.00 (0.52%)	690,471
+VCT.L	Victrex plc	1,734.00 16:49	Up 21.00(1.23%)	277,411
+VEC.L	Vectura Group plc	137.40 16:49	Up 4.00(3.00%)	1,733,954
+VED.L	Vedanta Resources plc	781.00 16:49	Up 38.50(5.19%)	882,325
+VM.L	Virgin Money Holdings (UK) plc	325.50 16:48	Up 3.40(1.06%)	1,027,823
+VSVS.L	Vesuvius plc	358.70 16:52	Up 10.30(2.96%)	436,121
+WEIR.L	The Weir Group PLC	1,725.00 16:53	Up 126.00(7.88%)	3,579,614
+WG.L	John Wood Group PLC	777.00 16:48	Up 14.00(1.83%)	861,231
+WIZZ.L	Wizz Air Holdings Plc	1,630.00 16:49	Up 50.00(3.16%)	665,253
+WKP.L	Workspace Group plc	674.50 16:52	Up 28.50(4.41%)	1,072,398
+WMH.L	William Hill plc	292.00 16:49	Up 1.00(0.34%)	2,498,605
+WPCT.L	Woodford Patient Capital Trust	91.40 16:39	Up 3.45(3.92%)	1,747,390
+WTAN.L	Witan Investment Trust plc	844.00 16:35	Down 0.50 (0.06%)	223,962
+WWH.L	Worldwide Healthcare Trust PLC	2,114.00 16:44	Up 161.00(8.24%)	248,563
+ZPLA.L	Zoopla Property Group Plc	301.10 16:49	Up 7.80(2.66%)	683,205
